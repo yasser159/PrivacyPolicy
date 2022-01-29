@@ -1,2 +1,2 @@
-# VaccinePassport
+# QR Passport
 Privacy Documentation Repository
